@@ -1,9 +1,9 @@
 title: Blog 
+author: Konstantinos Chorianopoulos
 email: blog@epidro.me 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a long-form blog (similar to medium) with posts about
+  various topics. You can follow the updates with the RSS feed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  epidrome
@@ -15,3 +15,4 @@ plugins:
   - jekyll-remote-theme
 
 show_excerpts: true
+permalink: /:slug
