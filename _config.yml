@@ -1,12 +1,18 @@
 title: Blog 
-author: Konstantinos Chorianopoulos
-email: blog@epidro.me 
+author: 
+  name: Konstantinos Chorianopoulos
+  email: blog@epidro.me 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a long-form blog (similar to medium) with posts about
-  various topics. You can follow the updates with the RSS feed.
+  Long-form blog (similar to Medium) with posts about
+  various topics. You can follow the updates with the RSS feed,
+  email your private message, or post a public comment
+  by opening an issue in the github repository.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  epidrome
+
+minima:
+  social_links:
+    github:  epidrome
 
 # Build settings
 remote_theme: jekyll/minima
