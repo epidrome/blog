@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A balanced diet of blended learning activities"
+title: "A healthy diet of blended learning activities"
 categories: education
 tags: [online, offline, learning, blended, hybrid]
 ---
