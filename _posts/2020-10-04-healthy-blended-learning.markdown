@@ -5,7 +5,7 @@ categories: education
 tags: [online, offline, learning, blended, hybrid]
 ---
 
-Hybrid or blended learning is well-known for many decades and defined as a **healthy mix of online and place-based activities.** There are several benefits in online learning activities, assuming that digital media and the respective pedagogy is well understood. There are also unique advantages to place-based learning, which should be blended into the mix, depending on the course and the instructor approach.
+Hybrid or blended learning has been well-known for many decades now and it is defined as a **healthy mix of online and place-based activities.** There are several benefits in online learning activities, assuming that digital media and the respective pedagogy is well understood. There are also unique advantages to place-based learning, which should be blended into the mix, depending on the course and the instructor approach.
 
 For example, it is expected that courses with unique lab equipment (e.g., biology, chemistry, electrical and mechanical engineering, etc), or courses with an emphasis on the human body (e.g., medicine, theater, dance, music, etc) are only feasible in place. On the other hand, courses that depend on generic computer software (e.g., informatics, media, etc) are actually better online, because it is just more natural.
 
